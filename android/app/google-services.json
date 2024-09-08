@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177664804164",
+    "project_id": "buysmart-f780c",
+    "storage_bucket": "buysmart-f780c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177664804164:android:2a24e5bf5c8ae686be8311",
+        "android_client_info": {
+          "package_name": "com.example.buysmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJL6iOJt1GppawrQ_TxU6JSZFU1RXlIcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
